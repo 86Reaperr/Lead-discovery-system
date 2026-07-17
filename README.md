@@ -4,7 +4,7 @@ An AI-powered B2B Lead Discovery & Qualification System that automates the disco
 
 ## Overview
 
-This project collects company information from Clutch.co, extracts business details, and identifies technology-focused companies. It applies ICOP-based qualification rules and uses Anthropic Claude to verify and classify each company, producing structured outputs for further analysis.
+This project collects company information from Clutch.co, extracts business details, and identifies technology-focused companies. It applies ICP-based qualification rules and uses Anthropic Claude to verify and classify each company, producing structured outputs for further analysis.
 
 ## Features
 
